@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>LOPYUUUU</title></title>
+ <style>
+  body {
+   background-color: #f2f2f2;
+   font-family: Times new roman, sans-serif;
+  }
+  
+  .love-message {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 30px;
+   color: black;
+   text-align: center;
+  }
+ </style>
+</head>
+<body>
+ <div class="love-message">
+  LOPYUUUU CINTA<br>
+  SAYANGKUUUUUUUUU<br>
+  TUSENKUUUU <br>
+  BORU MANISTERRRRRR 
+  <br> 
+  <br>
+  hehehhehe 
+ </div>
+</body>
+</html>
